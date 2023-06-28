@@ -1,0 +1,27 @@
+.mainConciertos{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+}
+
+
+
+.separated-card {
+    margin-bottom: 20px;
+}
+
+
+.card img{
+
+    filter: brightness(40%); 
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.card:hover img {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+

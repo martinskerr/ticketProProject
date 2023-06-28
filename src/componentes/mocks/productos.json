@@ -1,0 +1,49 @@
+{
+    "productos": [
+    {
+      "id":1,
+      "nombre": "Metallica ",
+      "fecha": "2023-06-27",
+      "rutaImagen": "./imagenes/metallica.jpg",
+      "precio1": 19.99,
+      "precio2": 39.99,
+       "precio3": 49.99
+    },
+    {
+      "id":2,
+      "nombre": "Guns and roses",
+      "fecha": "2023-06-28",
+      "rutaImagen": "./imagenes/guns.jpg",
+      "precio1": 19.99,
+      "precio2": 39.99,
+      "precio3": 49.99
+    },
+    {
+      "id":3,
+      "nombre": "The Strokes",
+      "fecha": "2023-06-29",
+      "rutaImagen": "./imagenes/strokes.jpg",
+      "precio1": 19.99,
+      "precio2": 39.99,
+      "precio3": 49.99
+    },
+    {
+      "id":4,
+      "nombre": "A-ha",
+      "fecha": "2023-06-29",
+      "rutaImagen": "./imagenes/aha.jpg",
+      "precio1": 19.99,
+      "precio2": 39.99,
+      "precio3": 49.99
+    },
+    {
+      "id":5,
+      "nombre": "Jason Mraz",
+      "fecha": "2023-06-29",
+      "rutaImagen": "./imagenes/jasonMraz.jpg",
+      "precio1": 19.99,
+      "precio2": 39.99,
+      "precio3": 49.99
+    }
+  ] 
+}
